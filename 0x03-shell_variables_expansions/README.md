@@ -1,0 +1,1 @@
+Shell variables s directory
